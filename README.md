@@ -1,7 +1,7 @@
 # Recipe Browser – Flutter App
 
-**Name:** Tamrat Arage
-**Student ID:** ATE/8888/15 
+**Name:** [Tamrat Arage]
+**Student ID:** [ATE/8888/15] 
 **Track:** C – Recipe Browser (TheMealDB API)
 
 ---
