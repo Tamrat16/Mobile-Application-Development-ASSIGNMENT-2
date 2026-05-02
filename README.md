@@ -25,8 +25,7 @@ All network requests use the `http` package with `Uri.https`, 10‑second timeou
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/recipe_browser.git
-   cd recipe_browser
+   git clone https://github.com/Tamrat16/Mobile-Application-Development-ASSIGNMENT-2/tree/main/Recipe-Browser-App
 2. Install Flutter dependencies
 Ensure you have Flutter SDK ≥3.0.0 installed. Then run:
 
